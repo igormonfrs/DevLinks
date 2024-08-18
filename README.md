@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ☠️ by Igor Reis 
+Feito com ☠️ by Igor Reis
