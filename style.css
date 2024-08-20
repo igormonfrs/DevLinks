@@ -59,7 +59,7 @@ body * {
   font-weight: 500;
   line-height: 24px;
   font-size: 24px;
-  margin-left: 5px;
+  margin-left: 16px;
 }
 #about {
   margin: 0 8px;
@@ -156,7 +156,7 @@ ul li a:hover {
 
   padding: 24px 0;
 
-  font-size: 24px;
+  font-size: 20px;
 }
 
 #social-links a {
